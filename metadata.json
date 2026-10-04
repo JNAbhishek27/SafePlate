@@ -1,0 +1,6 @@
+{
+  "name": "SafePlate: Built for a Friend",
+  "description": "An allergy-safe shared meal planner and ingredient guardian built for a roommate, powered by local open-weight AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
